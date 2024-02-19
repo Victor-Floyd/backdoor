@@ -13,3 +13,7 @@ Finally, in the role of security administrator, I will remove the malware.
 • Installed malware. Just pretend that the malware was installed **unknowingly** while downloading this "Simple Hasher" Application. <br/> <br/>
 <img src="https://githubucket.s3.us-east-2.amazonaws.com/Installed+Malware.png" height="80%" width="80%" alt="Install Malware"/> <br/> <br/>
 
+• Running the Task Manager after the download shows that a process "ncat", a well-known atack tool, is now running. <br/><br/>
+<img src="https://githubucket.s3.us-east-2.amazonaws.com/ncat.png" height="80%" width="80%" alt="ncat is now running"/> <br/> <br/>
+
+
